@@ -1,0 +1,39 @@
+	   __________________________________________________
+
+	      README: ALGORITHM FOR REACHING GOALS IN THE
+			DISTANCE VIA POGO STICKS
+	     University of Maine COS 554: Data Structures &
+			       Algorithms
+
+			    Tristan Zippert
+	   __________________________________________________
+
+
+Copyright (c) 2023 Tristan Roy Zippert(tris.zip@gmail.com), MIT License
+
+
+1 Manifest
+==========
+
+  - Zippert-Tristan-literate_writeup.pdf: Literate writeup PDF
+    containing code explanation, code, and code measurement.
+  - Zippert-Tristan-literate_code.lisp: Source Lisp code extracted from
+    the literate writeup
+  - Zippert-Tristan-example_output.txt: REPL buffer showcasing example
+    input and output of the algorithm
+  - README.txt: This file
+
+
+2 Running
+=========
+
+  - 'Zippert-Tristan-literate_code.lisp' can be run through SBCL with
+    the following command: `sbcl --load
+    Zippert-Tristan-literate_code.lisp'
+
+
+3 Known Issues
+==============
+
+  - Code will sometimes output `NIL` to the terminal mixed with the
+    output of the algorithm.
